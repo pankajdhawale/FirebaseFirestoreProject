@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDemoInKotlin</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="enter_email_update">Enter email</string>
+    <string name="enter_name_update">Enter Name</string>
+</resources>
